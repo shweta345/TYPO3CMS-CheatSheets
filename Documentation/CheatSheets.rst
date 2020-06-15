@@ -24,7 +24,8 @@ stdWrap overview for cObjects
 
 
 This overview presents the different stdWrap properties of a cObject.
-It uses the cObject "TEXT" as example to demonstrate where they are applied.
+It uses the cObject "TEXT" as an example to demonstrate where the 
+properties are applied.
 
 
 * `Download <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/master/Resources/Public/CheatSheets/stdwrap.png>`__
@@ -36,7 +37,7 @@ stdWrap overview for menu objects
 *by Xavier Perseguers*
 
 This overview presents the different stdWrap properties of a menu. It uses the menu type
-"HMENU" as an example to demonstrate where they are applied.
+"HMENU" as an example to demonstrate where the properties are applied.
 
 * `Download <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/master/Resources/Public/CheatSheets/stdwrap-menu.png>`__
 * `Edit <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/master/Resources/Public/CheatSheets/stdwrap-menu.png>`__
@@ -47,7 +48,7 @@ New Website Cheat Sheet
 
 *by Leon D.*
 
-Overview of common TypoScript settings for a new TYPO3 website.
+This overview presents common TypoScript settings for a new TYPO3 website.
 
 * `Download <http://www.cheatography.com/achjaderleon/cheat-sheets/typo3-new-website/pdf/>`__
 
@@ -57,7 +58,8 @@ TYPO3 Page Includes
 
 *by Steffen Kamper*
 
-An illustration of the different includes, which are supported by the Page renderer since TYPO3 4.3.
+This page provides an illustration of the different includes, which 
+are supported by the Page renderer since TYPO3 4.3.
 
 * `Download <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.pdf>`__
 * `Edit <https://github.com/TYPO3-Documentation/TYPO3CMS-CheatSheets/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.odp>`__
@@ -71,7 +73,7 @@ Compact overview of TCA settings and values
 
 *by Stefan Frömken*
 
-Documentation is valid for TYPO3 4.2 until 7.6. Of cause most properties are still valid for TYPO3 8 and higher, but renderType for select-type is missing and noTableWrapping for user-type is gone.
+The documentation is valid for TYPO3 4.2 until 7.6. Though most properties are still valid for TYPO3 8 and higher, the "renderType property for select-type" is missing and "noTableWrapping for user-type" is no longer available.
 
 * `Download <http://www.typo3lexikon.de/fileadmin/templates/downloads/TCA-Cheat-Sheet-Schoko-Vanille-Mint.pdf>`__
 
